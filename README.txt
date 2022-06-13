@@ -4,7 +4,11 @@ Contents of Assignment folder
 =======
 1) Html {inside html-assignments branch}
 >>>>>>> html-assignments
+<<<<<<< HEAD
 2) Css 
+=======
+2) Css {inside css branch}
+>>>>>>> css-assignments
 3) Js
 4) Java
 5) changes in master brnches
