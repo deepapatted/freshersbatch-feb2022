@@ -9,6 +9,6 @@ Contents of Assignment folder
 =======
 2) Css {inside css branch}
 >>>>>>> css-assignments
-3) Js
+3) Js [inside master branch]
 4) Java
 5) changes in master brnches
